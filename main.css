@@ -48,13 +48,6 @@ html {
     width:85%;
   }
   
-  /* [1]
-    Add 
-    Full height
-    Half width
-    A small white border
-    Padding
-  */
   .lyrics-container {
     background: rgba(0,0,0,.5);
     border-radius: 5px;
